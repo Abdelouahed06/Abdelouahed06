@@ -4,7 +4,7 @@
 
 I'm an indie full-stack developer and content creator, building my version of the digital world one step at a time. Every project, from coding to content creation, is crafted from the ground up — from brainstorming and design to tackling real-world challenges with code.
 
-
+--------------
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
