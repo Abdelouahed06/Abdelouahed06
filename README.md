@@ -1,4 +1,4 @@
-# 👋​ Essaadouny Abdelouahed
+# 👋​ I'm Essaadouny Abdelouahed
 
 **`Full-Stack Developer (Web/Mobile/Desktop)`**
 
