@@ -1,4 +1,4 @@
-# 🏄‍♂️ Essaadouny Abdelouahed
+# 👋​ Essaadouny Abdelouahed
 
 **`Full-Stack Developer (Web/Mobile/Desktop)`**
 
