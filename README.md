@@ -24,7 +24,8 @@ I'm an indie full-stack developer and content creator, building my version of th
 
 ### 📊 Stats
 
-(https://github-readme-stats.vercel.app/api?username=Abdelouahed06&show_icons=true&theme=gruvbox)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelouahed06&show_icons=true&locale=en&layout=compact" alt="Abdelouahed06" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelouahed06&show_icons=true&locale=en" alt="Abdelouahed06t" /></p>
 
-#
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelouahed06&" alt="Abdelouahed06t" /></p>
