@@ -24,7 +24,7 @@ I'm an indie full-stack developer and content creator, building my version of th
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelouahed06&show_icons=true&theme=gruvbox)
+(https://github-readme-stats.vercel.app/api?username=Abdelouahed06&show_icons=true&theme=gruvbox)
 
 
 #
