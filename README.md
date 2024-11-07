@@ -6,7 +6,7 @@
 
 **`Full-Stack Developer (Web/Mobile/Desktop)`**
 
-I'm an indie full-stack developer and content creator, building my version of the digital world one step at a time. Every project, from coding to content creation, is crafted from the ground up — from brainstorming and design to tackling real-world challenges with code.
+I'm an full-stack developer and content creator, building my version of the digital world one step at a time. Every project, from coding to content creation, is crafted from the ground up — from brainstorming and design to tackling real-world challenges with code.
 
 --------------
 ### 🧰 Languages and Tools
